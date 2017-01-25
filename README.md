@@ -15,4 +15,4 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+模仿小米亲戚计算器写的Vue项目。。。感觉亲戚算法太恶心了，暂时放着等有空来刷。
